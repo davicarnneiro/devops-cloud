@@ -1,4 +1,4 @@
-# Imersão DevOps && Cloud 02
+# DevOps && Cloud
 
 ### Comando para criar o cluster com k3d e executar a aplicação:
 ```Bash
